@@ -46,16 +46,14 @@ Também tenho experiência em Desenvolvimento Web, obtida no **Projeto UnB-TV (2
 </div>
 
 ---
-# 📊 Minhas Estatísticas:
 
-<div align="center">
-  <a href="https://navicg">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=navicg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+# 📊 Minhas Estatísticas:
 
 ![](https://github-readme-stats.vercel.app/api?username=navicg&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=navicg&theme=radical&hide_border=false)<br/>
 
-## ☎️ Contatos
+## 👥 Social
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anaguedescosta009@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imesmana) 
 
