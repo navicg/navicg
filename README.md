@@ -1,5 +1,5 @@
 <h1 align="center" align-items="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&duration=2300&pause=500&color=FFB7C5&center=true&vCenter=true&width=600&height=70&lines=🌸+Oi!+Bem+Vindo+ao+meu+GitHub;Me+chamo+Ana+Victória!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&duration=2300&pause=500&color=84B067&center=true&vCenter=true&width=600&height=70&lines=🌿+Oi!+Bem+Vindo+ao+meu+GitHub;Me+chamo+Ana+Victória!" />
 </h1>
 
 ### Sobre Mim  
@@ -55,7 +55,7 @@
 
 ### 👥 Contatos
 
-[![email](https://img.shields.io/badge/Gmail-F7CFE8?logo=gmail&logoColor=D14836)](mailto:anaguedescosta009@gmail.com)
+[![email](https://img.shields.io/badge/Gmail-C7F9CC?logo=gmail&logoColor=D14836)](mailto:anaguedescosta009@gmail.com)
 
 ---
 
