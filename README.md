@@ -1,63 +1,66 @@
 <h1 align="center" align-items="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&duration=2300&pause=500&color=FFB7C5&center=true&vCenter=true&width=500&height=70&lines=🌸+Hi!+Welcome+to+my+GitHub;I'm+Ana+Victória!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&duration=2300&pause=500&color=FFB7C5&center=true&vCenter=true&width=600&height=70&lines=🌸+Oi!+Bem+Vindo+ao+meu+GitHub;Me+chamo+Ana+Victória!" />
 </h1>
 
-## Sobre Mim  
-Olá! Sou estudante de Engenharia de Software na Universidade de Brasília, estou no 3º ano da minha graduação apaixonada por desenvolvimento e criação de interfaces intuitivas.  
-Busco sempre aprender novas tecnologias enquanto aplico meus conhecimentos em projetos reais e acadêmicos.
+### Sobre Mim  
 
-## Experiências
+💡 Estudante de Engenharia de Software na UnB, atualmente no 3º ano e apaixonada por criar soluções intuitivas.
 
-Tenho experiência em Engenharia de Requisitos, adquirida no **Projeto Acadêmico de Engenharia de Requisitos (2025)**, onde trabalhei na elicitação e documentação de requisitos, criação de histórias de usuário e organização de artefatos usando práticas ágeis.
+🧩 Sempre explorando novas tecnologias e aplicando meus conhecimentos em projetos reais.
 
-Também tenho experiência em Desenvolvimento Web, obtida no **Projeto UnB-TV (2024–2025)**, atuando na construção de interfaces com HTML, CSS e TypeScript e na implementação de funcionalidades interativas.
+🖥️ Tenho experiência em Engenharia de Requisitos e em Desenvolvimento Web com HTML, CSS e TypeScript/JavaScript, criando interfaces e funcionalidades interativas.
 
----
-
-## 👾 Tecnologias e Ferramentas  
-
-### 🖥️ Linguagens de Programação  
-<div style="display: flex; gap: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-</div>
+✨ Obrigada por passar por aqui!
 
 ---
 
-### 🎨 Front-End  
-<div style="display: flex; gap: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40"/>
-</div>
+### 👾 Tecnologias & Ferramentas
+
+<table border="0px">
+<tr>
+<td width=300>
+
+**linguagens & stack principal:**
+
+<code><img height="30" alt="C" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+<code><img height="30" alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="30" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="30" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="30" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+
+
+**desenvolvimento web:**
+
+<code><img height="30" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="30" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="30" alt="Angular" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"></code>
+
+**ferramentas que utilizo:**
+
+<code><img height="30" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="30" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+<code><img height="30" alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="30" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+
+</td>
+
+<td width=500>
+
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ DevOps  
-<div style="display: flex; gap: 10px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-</div>
-
----
-
-# 📊 Minhas Estatísticas:
-
-![](https://github-readme-stats.vercel.app/api?username=navicg&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=navicg&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=navicg&theme=radical&hide_border=false&layout=compact&count_private=false&langs_count=6&include_all_commits=true)
+### 📊 Minhas Estatísticas:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=navicg&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-## 👥 Social
+### 👥 Contatos
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anaguedescosta009@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imesmana) 
+[![email](https://img.shields.io/badge/Gmail-F7CFE8?logo=gmail&logoColor=D14836)](mailto:anaguedescosta009@gmail.com)
 
 ---
 
