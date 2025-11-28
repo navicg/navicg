@@ -44,11 +44,6 @@
 <code><img height="30" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
 
 </td>
-
-<td width=500>
-
-
-</td>
 </tr>
 </table>
 
