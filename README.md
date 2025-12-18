@@ -1,14 +1,16 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=e066ff"/>
+
 <h1 align="center" align-items="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&duration=2300&pause=500&color=84B067&center=true&vCenter=true&width=600&height=70&lines=🌿+Oi!+Bem+Vindo+ao+meu+GitHub;Me+chamo+Ana+Victória!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&duration=2300&pause=500&color=B39EB5&center=true&vCenter=true&width=600&height=70&lines=🌸+Oi!+Bem+Vindo+ao+meu+GitHub;Me+chamo+Ana+Victória!" />
 </h1>
 
 ### Sobre Mim  
 
-💡 Estudante de Engenharia de Software na UnB, atualmente no 3º ano e apaixonada por criar soluções intuitivas.
+💡 Estudante de Engenharia de Software na UnB, atualmente no 3º ano e apaixonada por desenvolvimento Full Stack, com foco em Back-End.
 
 🧩 Sempre explorando novas tecnologias e aplicando meus conhecimentos em projetos reais.
 
-🖥️ Tenho experiência em Engenharia de Requisitos e em Desenvolvimento Web com HTML, CSS e TypeScript/JavaScript, criando interfaces e funcionalidades interativas.
+🖥️ Experiência com desenvolvimento de APIs REST, utilizando Flask e SQLite, além de atuar no desenvolvimento web com HTML, CSS e TypeScript/JavaScript.
 
 ✨ Obrigada por passar por aqui!
 
@@ -18,44 +20,75 @@
 
 <table border="0px">
 <tr>
-<td width=300>
+
+<!-- COLUNA ESQUERDA -->
+<td width="50%" valign="top">
 
 **linguagens & stack principal:**
 
-<code><img height="30" alt="C" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-<code><img height="30" alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="30" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-<code><img height="30" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-<code><img height="30" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 
+<br><br>
 
-**desenvolvimento web:**
+**desenvolvimento web (front-end):**
 
-<code><img height="30" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="30" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="30" alt="Angular" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"></code>
+
+<br><br>
+
+**backend & APIs:**
+
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></code>
+<code><img height="28" src="https://img.shields.io/badge/API-REST-blue?style=for-the-badge"></code>
+
+</td>
+
+<!-- COLUNA DIREITA -->
+<td width="50%" valign="top">
+
+**bancos de dados:**
+
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"></code>
+
+<br><br>
+
+**aprendendo atualmente:**
+
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
+
+<br><br>
 
 **ferramentas que utilizo:**
 
-<code><img height="30" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="30" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-<code><img height="30" alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
-<code><img height="30" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
 
 </td>
+
 </tr>
 </table>
+
 
 ---
 
 ### 📊 Minhas Estatísticas:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=navicg&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=navicg&theme=omni&locale=pt-br&border_color=e066ff&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### 👥 Contatos
 
-[![email](https://img.shields.io/badge/Gmail-C7F9CC?logo=gmail&logoColor=D14836)](mailto:anaguedescosta009@gmail.com)
+[![email](https://img.shields.io/badge/Gmail-B39EB5?logo=gmail&logoColor=D14836)](mailto:anaguedescosta009@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B39EB5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navicg/)
 
----
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e066ff&height=100&section=footer"/>
