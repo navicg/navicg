@@ -1,6 +1,9 @@
-<h1 align="center" align-items="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&duration=2300&pause=500&color=B39EB5&center=true&vCenter=true&width=600&height=70&lines=+٠࣪⭑𑁍 Oi!+Bem+Vindo+ao+meu+GitHub;Me+chamo+Ana+Victória! 𑁍٠࣪⭑" />
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&duration=2300&pause=500&color=B39EB5&center=true&vCenter=true&width=600&height=70&lines=+٠࣪⭑𑁍+Oi!+Bem+Vindo+ao+meu+GitHub;Me+chamo+Ana+Victória!+𑁍٠࣪⭑" 
+  />
 </h1>
+
 
 ### Sobre Mim  
 
