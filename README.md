@@ -1,7 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B3EBF2"/>
-
 <h1 align="center" align-items="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&duration=2300&pause=500&color=B3EBF2&center=true&vCenter=true&width=600&height=70&lines=+Oi!+Bem+Vindo+ao+meu+GitHub;Me+chamo+Ana+Victória!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&duration=2300&pause=500&color=B39EB5&center=true&vCenter=true&width=600&height=70&lines=+٠࣪⭑𑁍 Oi!+Bem+Vindo+ao+meu+GitHub;Me+chamo+Ana+Victória! 𑁍٠࣪⭑" />
 </h1>
 
 ### Sobre Mim  
@@ -34,7 +32,7 @@
 <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 </p>
 
-**desenvolvimento web (front-end):**
+**desenvolvimento web:**
 <p>
 <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
@@ -84,8 +82,5 @@
 
 ### 👥 Contatos
 
-[![email](https://img.shields.io/badge/Gmail-B3EBF2?logo=gmail&logoColor=D14836)](mailto:anaguedescosta009@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B3EBF2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navicg/)
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B3EBF2&height=100&section=footer"/>
+[![email](https://img.shields.io/badge/Gmail-7d5b8c?logo=gmail&logoColor=D14836)](mailto:anaguedescosta009@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7d5b8c?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navicg/)
