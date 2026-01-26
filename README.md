@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&duration=2300&pause=500&color=B39EB5&center=true&vCenter=true&width=600&height=70&lines=+٠࣪⭑𑁍+Oi!+Bem+Vindo+ao+meu+GitHub;Me+chamo+Ana+Victória!+𑁍٠࣪⭑" 
+    src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&duration=2300&pause=500&color=B39EB5&center=true&vCenter=true&width=600&height=70&lines=+٠࣪⭑+Oi!+Bem+Vindo+ao+meu+GitHub;Me+chamo+Ana+Victória!+٠࣪⭑" 
   />
 </h1>
 
@@ -11,7 +11,7 @@
 
 🧩 Sempre explorando novas tecnologias e aplicando meus conhecimentos em projetos reais.
 
-🖥️ Experiência com desenvolvimento de APIs REST, utilizando Flask e SQLite, além de atuar no desenvolvimento web com HTML, CSS e TypeScript/JavaScript.
+🖥️ Experiência com desenvolvimento de APIs REST, utilizando Flask, FastAPI, SQLite e PostgreSQL, além de atuar no desenvolvimento web com HTML, CSS e TypeScript/JavaScript.
 
 ✨ Obrigada por passar por aqui!
 
