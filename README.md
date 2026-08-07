@@ -1,89 +1,69 @@
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&duration=2300&pause=500&color=B39EB5&center=true&vCenter=true&width=600&height=70&lines=+٠࣪⭑+Oi!+Bem+Vindo+ao+meu+GitHub;Me+chamo+Ana+Victória!+٠࣪⭑" 
+<div align="center">
+
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Arial&size=32&duration=2300&pause=700&color=B39EB5&center=true&vCenter=true&width=700&height=70&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+%E2%9C%A8;Eu+sou+Ana+Vict%C3%B3ria!"
+    alt="Olá, seja bem-vindo(a)! Eu sou Ana Victória!"
   />
-</h1>
 
+  <p>
+    Estudante de Engenharia de Software na UnB<br>
+    Desenvolvimento Full Stack • Dados • Machine Learning
+  </p>
 
-### Sobre Mim  
+  <a href="mailto:anaguedescosta009@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-7D5B8C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/navicg/">
+    <img src="https://img.shields.io/badge/LinkedIn-7D5B8C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-💡 Estudante de Engenharia de Software na UnB, atualmente no 3º ano e apaixonada por desenvolvimento Full Stack, com foco em Back-End.
+</div>
 
-🧩 Sempre explorando novas tecnologias e aplicando meus conhecimentos em projetos reais.
+## Sobre mim
 
-🖥️ Experiência com desenvolvimento de APIs REST, utilizando Flask, FastAPI, SQLite e PostgreSQL, além de atuar no desenvolvimento web com HTML, CSS e TypeScript/JavaScript.
+Sou estudante de **Engenharia de Software na Universidade de Brasília (UnB)**, atualmente no 3º ano. Tenho interesse em desenvolvimento Full Stack, Dados e Machine Learning.
 
-✨ Obrigada por passar por aqui!
+- 💻 Atuo com desenvolvimento Full Stack, do Front-End ao Back-End.
+- ⚙️ Desenvolvo APIs REST com Flask e FastAPI.
+- 🌐 Tenho experiência com HTML, CSS, JavaScript, TypeScript e PHP.
+- 🗄️ Trabalho com bancos de dados SQLite, PostgreSQL e MySQL.
+- 📊 Busco ampliar meus conhecimentos em Dados e Machine Learning.
+- 🧩 Gosto de explorar novas tecnologias e transformar conhecimento em projetos reais.
 
----
+## Tecnologias e ferramentas
 
-### 👾 Tecnologias & Ferramentas
+<div align="center">
 
-<table border="0" cellpadding="6" cellspacing="0" width="100%">
-<tr>
+### Linguagens
 
-<!-- COLUNA ESQUERDA -->
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,php&theme=dark" alt="C, C++, Java, JavaScript, TypeScript, Python e PHP">
 
-**linguagens & stack principal:**
-<p>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-</p>
+### Desenvolvimento Full Stack
 
-**desenvolvimento web:**
-<p>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"></code>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,angular,flask,fastapi&theme=dark" alt="HTML, CSS, Angular, Flask e FastAPI">
 
-**backend & APIs:**
-<p>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></code>
-<code><img height="24" src="https://img.shields.io/badge/API-REST-blue?style=flat"></code>
-</p>
+### Bancos de dados e ferramentas
 
-</td>
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,git,github,docker,figma&theme=dark" alt="SQLite, PostgreSQL, MySQL, Git, GitHub, Docker e Figma">
 
-<!-- COLUNA DIREITA -->
-<td width="50%" valign="top">
+### Dados e Machine Learning
 
-**bancos de dados:**
-<p>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"></code>
-</p>
+<img src="https://img.shields.io/badge/Dados-7D5B8C?style=for-the-badge&logo=databricks&logoColor=white" alt="Dados">
+<img src="https://img.shields.io/badge/Machine_Learning-B39EB5?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning">
 
-**aprendendo atualmente:**
-<p>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
-</p>
+</div>
 
-**ferramentas que utilizo:**
-<p>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
-<code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
-</p>
+## Estatísticas
 
-</td>
-
-</tr>
-</table>
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navicg&theme=omni"
+    alt="Linguagens mais utilizadas nos repositórios de Ana Victória"
+  >
+</div>
 
 ---
 
-### 📊 Minhas Estatísticas:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=navicg&theme=omni&locale=pt-br&border_color=e066ff&include_all_commits=true&count_private=false&layout=compact)
-
-
-### 👥 Contatos
-
-[![email](https://img.shields.io/badge/Gmail-7d5b8c?logo=gmail&logoColor=D14836)](mailto:anaguedescosta009@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7d5b8c?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navicg/)
+<div align="center">
+  <em>Obrigada pela visita! ✨</em>
+</div>
