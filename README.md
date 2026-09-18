@@ -85,8 +85,9 @@ Meus principais interesses são:
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navicg&theme=omni"
-    alt="Linguagens mais utilizadas nos repositórios de Ana Victória"
+    src="https://github-stats-extended.vercel.app/api?username=navicg&amp;show_icons=true&amp;locale=pt-br&amp;bg_color=211B2E&amp;title_color=C9B6E4&amp;text_color=DDD3EA&amp;icon_color=BCA4D8&amp;ring_color=C9B6E4&amp;border_color=635475&amp;border_radius=12"
+    width="495"
+    alt="Estatísticas do GitHub de Ana Victória: estrelas, commits, pull requests, issues e contribuições"
   >
 </div>
 
