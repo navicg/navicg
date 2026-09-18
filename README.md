@@ -28,36 +28,58 @@ Meus principais interesses são:
 
 ## Tecnologias e ferramentas
 
-### Linguagens
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,php&theme=dark" alt="C, C++, Java, JavaScript, TypeScript, Python e PHP">
-</p>
-
-### Desenvolvimento Full Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,angular,flask,fastapi&theme=dark" alt="HTML, CSS, Angular, Flask e FastAPI">
-</p>
-
-### Bancos de dados
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql&theme=dark" alt="SQLite, PostgreSQL e MySQL">
-</p>
-
-### Ferramentas
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma&theme=dark" alt="Git, GitHub, Docker e Figma">
-</p>
-
-### Dados e Machine Learning
-
-<p align="center">
-<img src="https://img.shields.io/badge/Dados-7D5B8C?style=for-the-badge&logo=databricks&logoColor=white" alt="Dados">
-<img src="https://img.shields.io/badge/Machine_Learning-B39EB5?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning">
-</p>
+<table width="100%" border="1" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>Linguagens:</strong></p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" title="JavaScript">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="32" height="32" alt="Java" title="Java">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="32" height="32" alt="Python" title="Python">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/php/php-original.svg" width="32" height="32" alt="PHP" title="PHP">
+      </p>
+      <p><strong>Desenvolvimento Full Stack:</strong></p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="32" height="32" alt="HTML" title="HTML">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="32" height="32" alt="CSS" title="CSS">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angularjs/angularjs-original.svg" width="32" height="32" alt="Angular" title="Angular">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" title="TypeScript">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/flask/flask-original.svg" width="32" height="32" alt="Flask" title="Flask">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" width="32" height="32" alt="FastAPI" title="FastAPI">
+      </p>
+      <p><strong>Bancos de dados:</strong></p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/sqlite/sqlite-original.svg" width="32" height="32" alt="SQLite" title="SQLite">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" title="MySQL">
+      </p>
+      <p><strong>Outras linguagens:</strong></p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/c/c-original.svg" width="32" height="32" alt="C" title="C">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++" title="C++">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>DevOps:</strong></p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" title="Docker">
+      </p>
+      <p><strong>Controle de versão:</strong></p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="32" height="32" alt="Git" title="Git">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/github/github-original.svg" width="32" height="32" alt="GitHub" title="GitHub">
+      </p>
+      <p><strong>Design:</strong></p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/figma/figma-original.svg" width="32" height="32" alt="Figma" title="Figma">
+      </p>
+      <p><strong>Dados e Machine Learning:</strong></p>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="32" height="32" alt="Python" title="Python">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Estatísticas
 
