@@ -10,48 +10,54 @@
     Desenvolvimento Full Stack • Dados • Machine Learning
   </p>
 
-  <a href="mailto:anaguedescosta009@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-7D5B8C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/navicg/">
-    <img src="https://img.shields.io/badge/LinkedIn-7D5B8C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <p>
+    <a href="mailto:anaguedescosta009@gmail.com"><img src="https://img.shields.io/badge/Gmail-7D5B8C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://www.linkedin.com/in/navicg/"><img src="https://img.shields.io/badge/LinkedIn-7D5B8C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  </p>
 
 </div>
 
 ## Sobre mim
 
-Sou estudante de **Engenharia de Software na Universidade de Brasília (UnB)**, atualmente no 3º ano. Tenho interesse em desenvolvimento Full Stack, Dados e Machine Learning.
+Sou estudante do **4º ano de Engenharia de Software na Universidade de Brasília (UnB)**.
 
-- 💻 Atuo com desenvolvimento Full Stack, do Front-End ao Back-End.
-- ⚙️ Desenvolvo APIs REST com Flask e FastAPI.
-- 🌐 Tenho experiência com HTML, CSS, JavaScript, TypeScript e PHP.
-- 🗄️ Trabalho com bancos de dados SQLite, PostgreSQL e MySQL.
-- 📊 Busco ampliar meus conhecimentos em Dados e Machine Learning.
-- 🧩 Gosto de explorar novas tecnologias e transformar conhecimento em projetos reais.
+Meus principais interesses são:
+
+- **Desenvolvimento Full Stack**
+- **Dados e Machine Learning**
 
 ## Tecnologias e ferramentas
 
-<div align="center">
-
 ### Linguagens
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,php&theme=dark" alt="C, C++, Java, JavaScript, TypeScript, Python e PHP">
+</p>
 
 ### Desenvolvimento Full Stack
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,angular,flask,fastapi&theme=dark" alt="HTML, CSS, Angular, Flask e FastAPI">
+</p>
 
-### Bancos de dados e ferramentas
+### Bancos de dados
 
-<img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,git,github,docker,figma&theme=dark" alt="SQLite, PostgreSQL, MySQL, Git, GitHub, Docker e Figma">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql&theme=dark" alt="SQLite, PostgreSQL e MySQL">
+</p>
+
+### Ferramentas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma&theme=dark" alt="Git, GitHub, Docker e Figma">
+</p>
 
 ### Dados e Machine Learning
 
+<p align="center">
 <img src="https://img.shields.io/badge/Dados-7D5B8C?style=for-the-badge&logo=databricks&logoColor=white" alt="Dados">
 <img src="https://img.shields.io/badge/Machine_Learning-B39EB5?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning">
-
-</div>
+</p>
 
 ## Estatísticas
 
